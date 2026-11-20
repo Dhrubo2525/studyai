@@ -1,0 +1,21 @@
+This is illustrative academic material for the LearnSphere application walkthrough.
+
+1. Foundations of Human Rights
+Define human rights and examine their historical development, universality, dignity, equality, and the relationship between rights and responsibilities. Compare natural-rights, social-contract, and legal approaches.
+
+2. The Universal Declaration of Human Rights
+Study the development and structure of the Universal Declaration of Human Rights (UDHR). Identify its core principles and explain how the declaration influenced later international and national instruments.
+
+3. Civil and Political Rights
+Examine the right to life, liberty and security, freedom of expression, freedom of religion, fair trial guarantees, participation in public affairs, and limits that may apply under law.
+
+4. Economic, Social and Cultural Rights
+Review the rights to education, health, work, social security, food, housing, and participation in cultural life. Discuss progressive realization and the duties to respect, protect, and fulfil these rights.
+
+5. International Human Rights Institutions
+Map the roles of the United Nations Human Rights Council, treaty bodies, special procedures, regional systems, and national human rights institutions. Compare their mandates and reporting processes.
+
+6. Implementation, Remedies and Accountability
+Assess how rights are incorporated into domestic law, monitored, and enforced. Consider access to courts, complaint mechanisms, evidence, remedies, accountability, and practical barriers to implementation.
+
+Assessment prompt: Prepare a short, sourced analysis of one rights issue. State the applicable right, identify a relevant institution or remedy, and explain how the evidence supports your conclusion.
